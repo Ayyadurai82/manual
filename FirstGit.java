@@ -10,6 +10,9 @@ public class FirstGit {
 	System.out.println(21);
 	System.out.println(31);
 	System.out.println(41);
+	System.out.println(81);
+	
+	
 	
 	
 	
